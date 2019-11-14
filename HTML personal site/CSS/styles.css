@@ -1,0 +1,27 @@
+/*************************Tag selectors*************************/
+
+body {
+  background-color: #fff6be;
+}
+
+hr {
+  border-style: none;
+  border-color: #f77754;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+}
+
+h1{
+  color: #018790;
+}
+
+h3{
+  color: #66bfbf;
+}
+
+table{
+  cellspacing: 10;
+}
+
+/*************************Class selectors*************************/

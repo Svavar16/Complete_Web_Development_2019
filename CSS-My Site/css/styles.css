@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  background-color: #40514E;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 5.62rem;
+  margin: 50px auto 0 auto;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  padding-bottom: 10px;
+}
+
+h2 .WebDev {
+  font-weight: normal;
+
+}
+
+h3 {
+  font-family: 'Inconsolata', monospace;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-color: gray;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+  margin-bottom: 10px;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+  line-height: 2;
+}
+
+.mainView {
+  padding-top: 100px;
+  background-color: #EAF6F6;
+
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px 0 40px 0;
+  background-color: #66bfbf;
+}
+
+.bottom-container .footer-link {
+  color: #11999E;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.bottom-container .footer-link:hover {
+  color : #eaf6f6;
+  text-decoration: underline;
+}
+
+.bottom-container p {
+  color: #eaf6f6;
+  padding: 20px 0;
+}
+
+.Intro {
+  width: 30%;
+  margin: auto;
+}
+
+.Messeage {
+  width: 30%;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.profilepic {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Programming-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Photo-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cloudImage-top {
+  height: 200px;
+  width: 400px;
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.cloudImage-bottom {
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  left: 300px;
+  bottom: 300px;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  background-image: -webkit-gradient(top, #3498db, #2980b9);
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  background-image: -webkit-gradient(top, #3cb0fd, #3498db);
+  text-decoration: none;
+}
